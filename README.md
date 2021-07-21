@@ -14,9 +14,6 @@ Mostrarei as tecnologias e ferramentas que já tenho certo conhecimento e consig
 Aqui aquelas que ainda estou estudando ou conhecendo.
 
 
-## HOBBIES
-Serão listados um pouco daquilo que gosto de fazer para descançar a mente.
-
 #### ==========================================================
 
 # MY PERSONAL WEB PAGE
