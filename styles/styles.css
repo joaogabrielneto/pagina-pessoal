@@ -46,6 +46,53 @@ header{
 }
 
 
+/*estilos gerais do main*/
+
+main{
+    background: #fefefe;
+    width: 50%;
+    margin: 0 auto;
+}
+
+main h1{
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+main h2{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+
+main p{
+    font-size: 18px;
+    padding: 20px 30px;
+}
+
+
+.minha-foto{
+    width: 300px;
+    float: right;
+	box-shadow: 10px 10px 30px 0 #000;
+}
+
+.git-symbol{
+    height: 150px;
+    transition: 500ms;
+    padding: 0 0 50px 0;
+    margin: 0 0 0 50px;
+}
+.html-symbol, .css-symbol, .js-symbol{
+    height: 250px;
+    margin: 0 50px 0;
+    transition: 500ms
+}
+.html-symbol:hover, .css-symbol:hover, .js-symbol:hover, .git-symbol:hover{
+    transform: scale(1.08);
+}
 
 /*estilos rodapé*/
 footer{
@@ -71,4 +118,21 @@ footer{
     height: 40px;
     display: block;
     margin: 0 0 10px 0;
+}
+
+
+@media screen and (max-width:500px){
+    main{
+        width: auto;
+    }
+
+    .minha-foto{
+        float: none;
+    }
+
+    .minha-foto, .html-symbol, .css-symbol, .js-symbol, .git-symbol{
+        display: flex;
+        margin: 0 auto;
+        
+    }
 }
