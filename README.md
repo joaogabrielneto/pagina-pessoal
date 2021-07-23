@@ -3,8 +3,7 @@ Este projeto se trata do meu primeiro CTD (Código Todo Dia), no qual irei me ap
 
 ## PÁGINAS FINALIZADAS
 
-As páginas marcadas estão finalizadas
+As páginas que estão finalizadas
 
-- [x] Home
-- [x] Portifólio
-- [] Contato
+- Home
+- Portifólio
