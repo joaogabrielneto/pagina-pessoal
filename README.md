@@ -1,9 +1,5 @@
 # MINHA PÁGINA PESSOAL
-Este projeto se trata do meu primeiro CTD (Código Todo Dia), no qual irei me apresentar para o mundo.
+Este projeto agora se encontra no seguinte repositório:
+https://github.com/joaogabrielneto/joaogabrielneto.github.io
 
-## PÁGINAS FINALIZADAS
-
-As páginas que estão finalizadas
-
-- Home
-- Portifólio
+Este repositório não será mais atualizado e mantido apenas como histórico de versões.
